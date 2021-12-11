@@ -27,7 +27,8 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-dummy.md",
-      "chap-oyakata.md"
+      "chap-oyakata.md",
+      "chap-nakai.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
