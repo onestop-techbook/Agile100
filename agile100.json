@@ -26,7 +26,8 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-      "chap-dummy.md"
+      "chap-dummy.md",
+      "chap-oyakata.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
