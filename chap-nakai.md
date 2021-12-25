@@ -1,6 +1,6 @@
 # アジャイルの始め方～化石エンジニアがアジャイラーを探しに行く～
 
-nakai@ammonite_404
+<div class="flushright">nakai@ammonite_404</div>
 
 ## はじめに
 ### ご注意
