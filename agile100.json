@@ -27,6 +27,7 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-dummy.md",
+      "chap-oyakata-outline.md",
       "chap-oyakata.re",
       "chap-nakai.md"
     ],
