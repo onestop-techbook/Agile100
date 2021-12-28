@@ -29,7 +29,8 @@
       "chap-dummy.md",
       "chap-oyakata-outline.md",
       "chap-oyakata.re",
-      "chap-nakai.md"
+      "chap-nakai.md",
+      "chap-.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
