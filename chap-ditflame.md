@@ -60,18 +60,20 @@ SPINA3CH自律改善メソッドの改善サイクルは以下の様に図示さ
 
 絞り込んだ改善対象の問題の現況、改善点、対応方法などを検討します。
 
-なお表裏で一対の構成になっていて、表が記入用シート、裏がベストプラクティスという形です。以下アドレスからダウンロード[^Download3]できます。
+なお表裏で一対の構成になっていて、表が記入用シート、裏がベストプラクティスという形になっています。以下アドレスからダウンロード[^Download3]できます。
 
-![改善検討ワークシート](images/chap-ditflame/KaizenWorkSheet.jpg?scale=0.7)
+![改善検討ワークシート](images/chap-ditflame/KaizenWorkSheet.jpg?scale=0.9)
 
 [^Download3]:https://www.ipa.go.jp/files/000004578.zip
 
 ## おわりに
 
-実はSPINA3CHはそもそも一般的なアジャイルプロセスと異なり、一人で完結可能なチェックツールで構成されておあり、一人からでも改善をスタートできるようになっています。(当然ながら複数人でやっても良いですし、他のアジャイルプロセスと混ぜて使っても良いです。)
+実はSPINA3CHはそもそも一般的なアジャイルプロセスと異なり、一人で完結可能なチェックツールで構成されている事もあって、一人チームでも改善をスタートできるようになっています。(当然ながら複数人でやっても良いですし、他のアジャイルプロセスと混ぜて使っても良いのですが。)[^hitori]
 
-また、「一人からスタートできる」特性が評価されており、SPINA3CHを原型として少し改定されたものが国際規格（ISO/IEC TR 29110-3-4:2015 Systems and software engineering — Lifecycle profiles for Very Small Entities (VSEs) — Part 3-4: Autonomy-based improvement method）として規格化され、承認されています。
+また、「一人からスタートできる」特性が評価されたのだと思われるのですが、SPINA3CHを原型として少し改定されたものが国際規格（ISO/IEC TR 29110-3-4:2015 Systems and software engineering — Lifecycle profiles for Very Small Entities (VSEs) — Part 3-4: Autonomy-based improvement method）として規格化され、承認されています。
 
 国際規格のタイトルにもなっていますが、まさに「小規模組織のソフトウェア改善用手法」という感じの内容ですよね。
 
 この記事があなたのアジャイルプロセスの一助になれば幸いです。
+
+[^hitori]:ちなみに正論は耳に痛いので、正論での指摘を他人から受けると腹が立つケースもままあるが、自分で指摘して修正というアプローチは受け入れやすい…という様な効用もあるそう。
