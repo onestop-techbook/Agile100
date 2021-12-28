@@ -1,4 +1,4 @@
-# あなたは「SPINA@<sup>{3}CH」読めるかな？（国産プロセス改善手法のすすめ）
+# あなたは「SPINA3CH」読めるかな？（国産プロセス改善手法のすすめ）
 
 <div class="flushright">ふーれむ@ditflame</div>
 
