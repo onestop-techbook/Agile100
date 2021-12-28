@@ -53,6 +53,25 @@
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 
 　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふーれむ @ditflame https://twitter.com/ditflame\\
+        Qiitaでちょこちょこ技術ネタ書いたりしてます。 https://qiita.com/ditflame\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+おやかたさんが合同誌企画を立ち上げるとだいたいついてくる人です。大阪在住
+本職は受諾開発SE→社内SE(内製型)です。一応エンベデッドスペでセスペでデスペな人。
+現在は転職検討中…　この本が出る頃には次決まってるとイイなぁ（笑）
+
+　
+
+
 == 表紙イラスト・デザイン　
 
 //embed{
