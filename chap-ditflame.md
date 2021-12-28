@@ -54,7 +54,7 @@ https://www.ipa.go.jp/files/000004577.pdf
 
 本シートについては**ガイドブック**の巻末にあるシートを用います。
 
-![改善検討業務選択シート](images/chap-ditflame/Kaizenchoice.jpg?scale=0.5)
+![改善検討業務選択シート](images/chap-ditflame/KaizenChoice.jpg?scale=0.5)
 
 ### 改善検討ワークシート
 
@@ -62,7 +62,7 @@ https://www.ipa.go.jp/files/000004577.pdf
 
 なお表裏で一対の構成になっていて、表が記入用シート、裏がベストプラクティスという形です。
 
-![改善検討ワークシート](images/chap-ditflame/KaizenWorksheet.jpg?scale=0.5)
+![改善検討ワークシート](images/chap-ditflame/KaizenWorkSheet.jpg?scale=0.5)
 
 
 ## おわりに
