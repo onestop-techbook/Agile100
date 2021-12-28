@@ -30,7 +30,7 @@
       "chap-oyakata-outline.md",
       "chap-oyakata.re",
       "chap-nakai.md",
-      "chap-.md"
+      "chap-ditflame.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
