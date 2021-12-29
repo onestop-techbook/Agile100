@@ -80,7 +80,7 @@ SPINA3CH自律改善メソッドの改善サイクルは以下の様に図示さ
 
 #### ふーれむ
 
-![アイコン](images/chap-ditflame/ditflame400.jpg?scale=0.3)
+![アイコン](images/chap-ditflame/ditflame_400x400.jpg?scale=0.3)
 
 ふーれむ @ditflame https://twitter.com/ditflame
 Qiita(あんまり書いてないけど、とあるタグだとランカー) https://qiita.com/ditflame
