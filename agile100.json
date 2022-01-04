@@ -31,7 +31,8 @@
       "chap-oyakata.re",
       "chap-nakai.md",
       "chap-ditflame.re",
-      "chap-shimazaki.md"
+      "chap-shimazaki.md",
+      "chap-mayuborn.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
