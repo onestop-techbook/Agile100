@@ -91,9 +91,9 @@ Dockerを使うのが一番手軽です。とても面倒なTeXのインスト�
 $ docker run -t --rm -v $(pwd):/book vvakame/review:3.2 /bin/bash -ci "cd /book && yarn && yarn build"
 ```
 
-このコマンドの実行が成功すれば、コンパイルされたPDFが、`.review/Onestop-Online.pdf` として出力されています。
+このコマンドの実行が成功すれば、コンパイルされたPDFが、`.review/agile100.pdf` として出力されています。
 
-Mac なら `open .review/Onestop-Online.pdf` で PDF を開くことができます。
+Mac なら `open .review/agile100.pdf` で PDF を開くことができます。
 
 ### WindowsでReviewを使う方法
 
