@@ -32,7 +32,7 @@
       "chap-nakai.md",
       "chap-ditflame.re",
       "chap-shimazaki.md",
-      "chap-mayuborn.md"
+      "chap-mayuborn.md",
       "chap-fkino.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
