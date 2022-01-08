@@ -214,7 +214,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chap-shimaszaki/shimazaki.jpg}
+        \includegraphics[width=.75\linewidth]{images/chap-shimazaki/shimazaki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         しまざき @junsora https://twitter.com/junsora\\
