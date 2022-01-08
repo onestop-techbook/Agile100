@@ -35,7 +35,8 @@
       "chap-mayuborn.md",
       "chap-fkino.re",
       "chap-izumii19.md",
-      "chap-watanabe.md"
+      "chap-watanabe.md",
+      "chap-ayanaru.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
