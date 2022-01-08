@@ -1,4 +1,4 @@
-## アジャイルに成長し続けるあじゃてくコミュニティ
+# アジャイルに成長し続けるあじゃてくコミュニティ
 
 
 <div class="flushright">Agile Tech EXPO Organizer あやなる</div>
