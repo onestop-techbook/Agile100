@@ -16,7 +16,7 @@
 
 >Welcome changing requirements, even late in development.Agile processes harness change for the customer's competitive advantage.
 
-<br>
+
 
 >要求の変更はたとえ開発の後期であっても歓迎します。**変化を味方につける**ことによって、お客様の競争力を引き上げます。 
 
