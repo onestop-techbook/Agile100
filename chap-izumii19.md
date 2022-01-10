@@ -133,7 +133,7 @@ Webエンジニアとして初めて携わったのが「Amazon DynamoDBから�
 
 1. 不安を感じるのは遺伝子のせいと捉え、ネガティブな感情を切り離す
 2. **わからないことがわかっている**ということ視点で自己認知をする
-3. **事実のunknown**と**妄想のunknown**を分別
+3. **事実のunknown**と**妄想のunknown**を分別する
 4. **事実のunknown**に対し自分のとれるアクションを考え行動する
 
 
@@ -154,4 +154,4 @@ Webエンジニアとして初めて携わったのが「Amazon DynamoDBから�
 伊藤 いづみ @izumii19 https://twitter.com/izumii19
 
 
-クリエーションライン株式会社のスクラムマスター。アジャイル札幌、Women in Agile Japan Regionの運営メンバー。ScrumFestSapporo2020,2021 および ScrumFestNiigata2022実行委員。娘2人、猫1匹と北海道で暮らしています。
+クリエーションライン株式会社のスクラムマスター。アジャイル札幌、Women in Agile Japan Regionの運営メンバー。ScrumFestSapporo2020,2021,2022 および ScrumFestNiigata2022実行委員。娘2人、猫1匹と北海道で暮らしています。
