@@ -38,7 +38,8 @@
       "chap-ayanaru.md",
       "chap-nakai.md",
       "chap-yasugahira.md",
-      "chap-tark.md"
+      "chap-tark.md",
+      "chap-nakai_book.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
