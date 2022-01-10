@@ -26,11 +26,11 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-      "chap-dummy.md",
       "chap-oyakata-outline.md",
       "chap-oyakata.re",
       "chap-ditflame.re",
       "chap-nakai.re",
+      "chap-poohsunny.md",
       "chap-shimazaki.re",
       "chap-mayuborn.re",
       "chap-fkino.re",
@@ -39,8 +39,7 @@
       "chap-ayanaru.md",
       "chap-yasugahira.md",
       "chap-tark.md",
-      "chap-nakai_book.md",
-      "chap-poohsunny.md"
+      "chap-nakai_book.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
