@@ -250,7 +250,7 @@ PLにとって場の空気は最悪であり、時間の経過は誰かの魔法
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chap-nakai/ammonite.jpg}
+        \includegraphics[width=.75\linewidth]{images/chap-nakai/annmonite.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         アンモ ナイト（ammonite\_404）\\
