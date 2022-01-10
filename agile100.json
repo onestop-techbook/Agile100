@@ -30,15 +30,16 @@
       "chap-oyakata-outline.md",
       "chap-oyakata.re",
       "chap-ditflame.re",
+      "chap-nakai.re",
       "chap-shimazaki.re",
       "chap-mayuborn.re",
       "chap-fkino.re",
       "chap-izumii19.md",
       "chap-watanabe.md",
       "chap-ayanaru.md",
-      "chap-nakai.md",
       "chap-yasugahira.md",
-      "chap-tark.md"
+      "chap-tark.md",
+      "chap-nakai_book.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
