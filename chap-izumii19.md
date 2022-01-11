@@ -140,11 +140,10 @@ Webエンジニアとして初めて携わったのが「Amazon DynamoDBから�
 
 私の人生は「もう少し早くこのことに気付けていたら自分の人生はもっと違ったかも」という後悔ばかりですが、私の人生で気づいたことが未来あるみなさんのヒントになれば幸いです。
 
-#### 伊藤 いづみ(@izumii19)
 
 ![アイコン](images/chap-izumii19/icon.JPG)
 
 伊藤 いづみ @izumii19 https://twitter.com/izumii19
 
 
-クリエーションライン株式会社のスクラムマスター。アジャイル札幌、Women in Agile Japan Regionの運営メンバー。ScrumFestSapporo2020,2021,2022 および ScrumFestNiigata2022実行委員。娘2人、猫1匹と北海道で暮らしています。
+クリエーションライン株式会社のスクラムマスター。アジャイル札幌、Women in Agile Japan Regionの運営メンバー。ScrumFestSapporo2020,2021,2022 および ScrumFestNiigata2022実行委員。娘2人猫1匹と北海道で暮らしています。
