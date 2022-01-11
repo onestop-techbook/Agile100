@@ -1,6 +1,6 @@
 {
   "bookname": "agile100",
-  "booktitle": "僕のアジャイル100本ノック",
+  "booktitle": "ぼくのアジャイル100本ノック",
   "aut": [],
   "language": "ja",
   "toc": true,
@@ -51,7 +51,8 @@
       "chap-tark.md",
       "chap-nakai_book.md",
       "chap-okamoto.md",
-      "chap-chibana.md"
+      "chap-chibana.md",
+      "chap-oyakatapj-agile.re"
     ],
     "POSTDEF": [
       "contributors.re",
