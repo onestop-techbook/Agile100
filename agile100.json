@@ -52,7 +52,9 @@
       "chap-nakai_book.md",
       "chap-okamoto.md",
       "chap-chibana.md",
-      "chap-oyakatapj-agile.re"
+      "chap-oyakatapj-agile.re",
+      "chap-k-okajima1.md",
+      "chap-k-okajima2.md"
     ],
     "POSTDEF": [
       "contributors.re",
