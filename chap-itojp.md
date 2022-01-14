@@ -1,6 +1,6 @@
 # テストの力でスクラムを良くする
 
-<div style="text-align: right;">伊藤 潤平(@jp_110)</div>
+<div class="flushright">伊藤 潤平(@jp_110)</div>
 
 ## プロローグ
 「うちもスクラム開発を導入します」
