@@ -139,6 +139,8 @@ SETメンバーがスクラムに入り、実際にプロジェクトを実行�
 
 @<href>{https://www.scrumfestniigata.org/, スクラムフェス新潟 https://www.scrumfestniigata.org/}
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
