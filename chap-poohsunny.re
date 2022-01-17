@@ -4,8 +4,6 @@
 @PoohSunny
 //}
 
-== はじめに
-
 
 こんにちは。PoohSunnyといいます。普段はリクルートという会社でエンジニア組織のグループマネージャーをやっています。また、コミュニティとしてTDD Boot Camp（以下TDDBC）@<fn>{tddbc}のスタッフとして運営のお手伝いをしています。
 
@@ -96,7 +94,7 @@ TDDは「アジャイルのライトウィング」と言われることもあ�
 
 //footnote[97][@<href>{https://www.oreilly.co.jp/books/9784873114798/, https://www.oreilly.co.jp/books/9784873114798/}]
 
-== Be Agile with TDDBC
+=== Be Agile with TDDBC
 
 
 先述の通り、TDDBC自体も、近年のオンライン開催など、引き続き進化を続けています。
