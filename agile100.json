@@ -43,18 +43,23 @@
       "chap-poohsunny.re",
       "chap-shimazaki.re",
       "chap-mayuborn.re",
+      "chap-tark.re",
       "chap-fkino.re",
+      "chap-sft2021.re",
       "chap-izumii19.re",
+      "chap-itojp.re",
+      "chap-oyakata-elec.re",
       "chap-watanabe.md",
       "chap-ayanaru.md",
       "chap-yasugahira.md",
-      "chap-tark.md",
       "chap-nakai_book.md",
       "chap-okamoto.md",
       "chap-chibana.md",
       "chap-oyakatapj-agile.re",
       "chap-k-okajima1.md",
-      "chap-k-okajima2.md"
+      "chap-k-okajima2.md",
+      "chap-shimazaki-scrum.md"
+
     ],
     "POSTDEF": [
       "contributors.re",

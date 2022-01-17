@@ -4,17 +4,15 @@
 @PoohSunny
 //}
 
-== はじめに
 
-
-こんにちは。PoohSunnyと言います。普段はリクルートという会社でエンジニア組織のグループマネージャーをやっています。また、コミュニティとしてTDD Boot Camp（以下TDDBC）@<fn>{tddbc}のスタッフとして運営のお手伝いをしています。
+こんにちは。PoohSunnyといいます。普段はリクルートという会社でエンジニア組織のグループマネージャーをやっています。また、コミュニティとしてTDD Boot Camp（以下TDDBC）@<fn>{tddbc}のスタッフとして運営のお手伝いをしています。
 
 
 私にとってTDDBCは自分のこれまでのエンジニア人生を語る上でとても貴重な存在です。今日は、TDDBCを紹介することを目的として、TDDBCに導かれる中で私がどのようにアジャイルの世界に惹かれ、どのように人を知り、知識と経験をしてきたのかをご紹介したいと思います。
 
 //footnote[tddbc][@<href>{http://devtesting.jp/tddbc/, http://devtesting.jp/tddbc/}]
 
-== TDDBCについて
+== TDDBCとの関わり
 
 
 TDDBCはテスト駆動開発をハンズオン形式で学べるイベントです。2009年に初回が実施されました。@<fn>{1st}
@@ -22,17 +20,16 @@ TDDBCはテスト駆動開発をハンズオン形式で学べるイベントで
 
 //footnote[1st][@<href>{https://kokucheese.com/event/index/750/, https://kokucheese.com/event/index/750/}]
 
-== TDDBCとの関わり
 
 === 和田さんの「TDDのこころ」と出会う
 
 
-TDDBCのことを私が知ったのは、Info talkというイベントでした@<fn>{infotalk}。当時私はとんでもないレガシーコードと格闘しており、その改善の足がかりを見つけるためにJenkinsの講演を聞きに行きました。
+私がTDDBCのことを知ったのは、Info talkというイベントでした@<fn>{infotalk}。当時私はとんでもないレガシーコードと格闘しており、その改善の足がかりを見つけるためにJenkinsの講演を聞きに行きました。
 
 
 たまたまですが、その講演が二部構成で、前半がJenkinsのお話、後半が和田卓人さんの「TDDのこころ」でした。その講演を聞き、かつ懇親会でお話しすることができ、TDDとTDDBCのことを知りました。
 
-//footnote[infotalk][@<href>{https://sites.google.com/a/aiit.ac.jp/infotalk/home/20120720, https://sites.google.com/a/aiit.ac.jp/infotalk/home/20120720}]
+//footnote[infotalk][@<href>{https://sites.google.com/a/aiit.ac.jp/infotalk/home/20120720, https://sites.google.com/a/aiit.ac.jp/infotalk/home/20120720}2012年7月20日]
 
 === TDDBCに初参加
 
@@ -76,7 +73,7 @@ TDDは「アジャイルのライトウィング」と言われることもあ�
 
 //footnote[basecamp][@<href>{https://poohsunny.hatenablog.com/entry/2013/12/09/202352, https://poohsunny.hatenablog.com/entry/2013/12/09/202352}]
 
-== フィードバックサイクルとともに成長する
+=== フィードバックサイクルとともに成長する
 
 
 このように複数のコミュニティや勉強会に出入りするようになり、そこでの学びを仕事などでも活かすようになると、自分の携わった活動に様々なフィードバックをもらえるようになったことに気づきました。
@@ -84,7 +81,7 @@ TDDは「アジャイルのライトウィング」と言われることもあ�
 
 そのいただいたフィードバックを活かし、成長するとともに、そこで出会った縁で新たな活動をさせてもらうようになりました。現職もそれらの縁の延長線上に存在しています。
 
-== ふりかえる
+=== ふりかえる
 
 
 このように思い返してみると、自分はTDDBCを通してアジャイルの練度を高めてきたと思います。それは知識・スキルだけでなく、周りにいる凄腕のエンジニアの人たちに刺激を受けたり、その人たちに追いつきたいと思ったり、という様々な縁に導かれた結果自然にそうなっていた、という話でした。
@@ -97,7 +94,7 @@ TDDは「アジャイルのライトウィング」と言われることもあ�
 
 //footnote[97][@<href>{https://www.oreilly.co.jp/books/9784873114798/, https://www.oreilly.co.jp/books/9784873114798/}]
 
-== Be Agile with TDDBC
+=== Be Agile with TDDBC
 
 
 先述の通り、TDDBC自体も、近年のオンライン開催など、引き続き進化を続けています。
