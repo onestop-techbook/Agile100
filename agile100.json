@@ -45,6 +45,7 @@
       "chap-mayuborn.re",
       "chap-tark.re",
       "chap-fkino.re",
+      "chap-sft2021.re",
       "chap-izumii19.re",
       "chap-oyakata-elec.re",
       "chap-watanabe.md",
@@ -55,7 +56,7 @@
       "chap-chibana.md",
       "chap-oyakatapj-agile.re",
       "chap-itojp.md",
-      "chap-sft2021.md",
+
       "chap-shimazaki-scrum.md"
     ],
     "POSTDEF": [
