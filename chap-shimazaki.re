@@ -1,7 +1,7 @@
 = 思考と組織を変えてくれたアジャイル
 
 //flushright{
-しまざき@junsora
+島崎純一@junsora
 //}
 
 
@@ -204,7 +204,8 @@
         \includegraphics[width=.75\linewidth]{images/chap-shimazaki/junsora.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        しまざき @junsora https://twitter.com/JuKoA453\\
+        島崎純一 @junsora https://twitter.com/JuKoA453\\
+        https://note.com/blue_sky_js
         \end{minipage}
     \hspace{1ex}
 //}
