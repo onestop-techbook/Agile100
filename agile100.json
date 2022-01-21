@@ -36,10 +36,7 @@
       "preface.re"
     ],
     "CHAPS": [
-      "chap-oyakata-outline.md",
-      "chap-oyakata.re",
-      "chap-ditflame.re",
-      "chap-nakai.re"
+      "chap-oyakata-outline.md"
     ],
     "POSTDEF": [
       "contributors.re",
