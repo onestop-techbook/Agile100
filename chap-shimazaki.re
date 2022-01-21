@@ -205,7 +205,6 @@
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         島崎純一 @junsora https://twitter.com/JuKoA453\\
-        https://note.com/blue_sky_js
         \end{minipage}
     \hspace{1ex}
 //}
