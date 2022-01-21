@@ -4,4 +4,4 @@
 # docker run -i -t -v $(pwd):/book vvakame/review /bin/bash
 
 docker run -t --rm -v $(pwd):/book vvakame/review /bin/bash -ci "cd /book && yarn && yarn build"
-# .review/Onestop-app-dev.pdf に出力されます。
+# .review/agile100.pdf に出力されます。

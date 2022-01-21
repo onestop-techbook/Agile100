@@ -1,19 +1,25 @@
 {
   "bookname": "agile100",
-  "booktitle": "僕のアジャイル100本ノック",
+  "booktitle": "ぼくのアジャイル100本ノック",
   "aut": [],
   "language": "ja",
   "toc": true,
   "rights": "(C) 2022　親方Project",
   "colophon": true,
-  "history": [["2022-02-26 初版"]],
+  "history": [
+    [
+      "2022-02-26 初版"
+    ]
+  ],
   "pbl": "親方Project",
   "edt": "親方Project　@oyakata2438",
   "date": "2022-02-26",
   "secnolevel": 3,
   "titlepage": true,
   "review_version": 3.0,
-  "texstyle": ["reviewmacro"],
+  "texstyle": [
+    "reviewmacro"
+  ],
   "texdocumentclass": [
     "review-jsbook",
     "media=ebook,paper=b5,serial_pagination=true,hiddenfolio=nikko-pc,openany,fontsize=10pt,baselineskip=15.4pt,line_length=44zw,number_of_lines=40,head_space=18mm,headsep=3mm,headheight=5mm,footskip=10mm"
@@ -22,25 +28,44 @@
     "url": "https://github.com/TechBooster/ReVIEW-Template/archive/2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa.zip",
     "dir": "ReVIEW-Template-2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa/articles/sty/"
   },
-  "templates": ["images"],
+  "templates": [
+    "images"
+  ],
   "catalog": {
-    "PREDEF": ["preface.re"],
+    "PREDEF": [
+      "preface.re"
+    ],
     "CHAPS": [
-      "chap-dummy.md",
       "chap-oyakata-outline.md",
       "chap-oyakata.re",
       "chap-ditflame.re",
       "chap-nakai.re",
+      "chap-poohsunny.re",
       "chap-shimazaki.re",
       "chap-mayuborn.re",
+      "chap-tark.re",
       "chap-fkino.re",
-      "chap-izumii19.md",
+      "chap-sft2021.re",
+      "chap-izumii19.re",
+      "chap-itojp.re",
+      "chap-oyakata-elec.re",
+      "chap-sakaman28.re",
       "chap-watanabe.md",
       "chap-ayanaru.md",
       "chap-yasugahira.md",
-      "chap-tark.md",
-      "chap-nakai_book.md"
+      "chap-nakai_book.md",
+      "chap-okamoto.md",
+      "chap-chibana.md",
+      "chap-oyakatapj-agile.re",
+      "chap-k-okajima1.md",
+      "chap-k-okajima2.md",
+      "chap-shimazaki-scrum.md",
+      "chap-g_yanagi.md",
+      "chap-bangucs.md"
     ],
-    "POSTDEF": ["contributors.re", "postscript.re"]
+    "POSTDEF": [
+      "contributors.re",
+      "postscript.re"
+    ]
   }
 }
