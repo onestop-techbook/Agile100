@@ -50,7 +50,7 @@ Googl●先生のお導きでたどりついたイベントサイトで「アジ
 どういうレベルで個人情報をさらされるのか、さらしていいのか、何もかもがわからない。
 ハンドルネームを適当に作り、アカウントを作成、アジャイルビギナーOKのアジャイルイベント@<fn>{3}を申し込んだ。
 
-//footnote[3][アジャイルひよこクラブ様・「Fun！なアジャイルチームを作るには？」 @<href>{https://agile-hiyoko-club.connpass.com/event/132109/, https://agile-hiyoko-club.connpass.com/event/132109/} (2019年6月21日)]
+//footnote[3][アジャイルひよこクラブ 「Fun！なアジャイルチームを作るには？」 @<href>{https://agile-hiyoko-club.connpass.com/event/132109/, https://agile-hiyoko-club.connpass.com/event/132109/} (2019年6月21日)]
 
 == ステップ4：イベント当日
 
@@ -172,7 +172,9 @@ PLにとって場の空気は最悪であり、時間の経過は誰かの魔法
 
 
 銀の弾丸って狼男を倒すっていうホラー的なあれ？（←長年の勉強不足がモロに出てる）
-すぐにアジャイルになれる方法はないのか？　＝絶望しかない。
+
+すぐにアジャイルになれる方法はないのか？＝絶望しかない。
+
 この回答者の方は「スクラムマスター（？）」@<fn>{7}だと名乗られ、とても口調がやさしく、穏やかに話される。
 
 
@@ -253,9 +255,8 @@ PLにとって場の空気は最悪であり、時間の経過は誰かの魔法
         \includegraphics[width=.75\linewidth]{images/chap-nakai/annmonite.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        アンモ ナイト（ammonite\_404）\\
+        アンモ ナイト（ammonite\_404）https://twitter.com/4Ammonite\\
         ほぼブログのQiita：https://qiita.com/ammonite\_404
-        Twitter：https://twitter.com/4Ammonite
         \end{minipage}
     \hspace{1ex}
 //}
