@@ -36,7 +36,32 @@
       "preface.re"
     ],
     "CHAPS": [
-      "chap-oyakata-outline.md"
+      "chap-oyakata.re",
+      "chap-ditflame.re",
+      "chap-nakai.re",
+      "chap-oyakata-outline.md",
+      "chap-shimazaki.re",
+      "chap-mayuborn.re",
+      "chap-tark.re",
+      "chap-fkino.re",
+      "chap-sft2021.re",
+      "chap-izumii19.re",
+      "chap-itojp.re",
+      "chap-oyakata-elec.re",
+      "chap-sakaman28.re",
+      "chap-watanabe.md",
+      "chap-ayanaru.md",
+      "chap-yasugahira.md",
+      "chap-nakai_book.md",
+      "chap-okamoto.md",
+      "chap-chibana.md",
+      "chap-oyakatapj-agile.re",
+      "chap-k-okajima1.md",
+      "chap-k-okajima2.md",
+      "chap-shimazaki-scrum.md",
+      "chap-g_yanagi.md",
+      "chap-bangucs.md"
+
     ],
     "POSTDEF": [
       "contributors.re",
