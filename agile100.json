@@ -49,6 +49,7 @@
       "chap-itojp.re",
       "chap-oyakata-elec.re",
       "chap-sakaman28.re",
+      "chap-omix222.re",
       "chap-watanabe.md",
       "chap-ayanaru.md",
       "chap-yasugahira.md",
@@ -61,7 +62,9 @@
       "chap-shimazaki-scrum.md",
       "chap-g_yanagi.md",
       "chap-bangucs.md",
-      "chap-arakawa-ke.md"
+      "chap-arakawa-ke.md",
+      "chap-J.K0.md",
+      "chap-kitahara.md"
 
     ],
     "POSTDEF": [
