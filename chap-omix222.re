@@ -75,7 +75,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chap-omix222/hiromix2222.jpg}
+        \includegraphics[width=.75\linewidth]{images/chap-omix222/profile.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         たかはし @hiromix2222 https://twitter.com/hiromix2222\\
