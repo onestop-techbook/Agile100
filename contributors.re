@@ -73,8 +73,8 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
         \includegraphics[width=.75\linewidth]{images/contributors/naru_kyo_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        naru_kyo @naru_kyo18 https://twitter.com/naru_kyo18\\
-        https://note.com/naru_kyo
+        naru\_kyo @naru\_kyo18 https://twitter.com/naru\_kyo18\\
+        https://note.com/naru\_kyo
         \end{minipage}
     \hspace{1ex}
 //}
