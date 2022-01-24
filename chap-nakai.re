@@ -256,7 +256,7 @@ PLにとって場の空気は最悪であり、時間の経過は誰かの魔法
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         アンモ ナイト（ammonite\_404）\\
-        ほぼブログのQiita：https://qiita.com/ammonite_404<br>
+        ほぼブログのQiita：https://qiita.com/ammonite\_404\\
         ものすごく静かなTwitter：https://twitter.com/4Ammonite
         \end{minipage}
     \hspace{1ex}
