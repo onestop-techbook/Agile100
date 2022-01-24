@@ -7,7 +7,7 @@ ammonite_404
 == そもそもの始まり
 
 
-4年前くらいのある日、WF（Water Fall）開発オンリーの化石エンジニア・アンモナイトは当時の上司に「『アジャイルサムライ』って本、読んだことある？」と問われ、
+4年前くらいのある日、WF（Waterfall）開発オンリーの化石エンジニア・アンモナイトは当時の上司に「『アジャイルサムライ』って本、読んだことある？」と問われ、
 「あります。いい本ですよね、あれ（他人事）」と返答したところ、アジャイルプロジェクトに放り込まれた@<fn>{1}。
 
 
@@ -256,7 +256,7 @@ PLにとって場の空気は最悪であり、時間の経過は誰かの魔法
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         アンモ ナイト（ammonite\_404）\\
-        ほぼブログのQiita：https://qiita.com/ammonite\_404  
+        ほぼブログのQiita：https://qiita.com/ammonite\_404\\
         ものすごく静かなTwitter：https://twitter.com/4Ammonite
         \end{minipage}
     \hspace{1ex}
