@@ -36,11 +36,10 @@
       "preface.re"
     ],
     "CHAPS": [
-      "chap-oyakata-outline.md",
       "chap-oyakata.re",
       "chap-ditflame.re",
       "chap-nakai.re",
-      "chap-poohsunny.re",
+      "chap-oyakata-outline.md",
       "chap-shimazaki.re",
       "chap-mayuborn.re",
       "chap-tark.re",
@@ -49,14 +48,28 @@
       "chap-izumii19.re",
       "chap-itojp.re",
       "chap-oyakata-elec.re",
+      "chap-sakaman28.re",
+      "chap-omix222.re",
+      "chap-oyakata-after.re",
+      "chap-otkshol.re",
       "chap-watanabe.md",
-      "chap-ayanaru.md",
+      "chap-ayanaru.re",
       "chap-yasugahira.md",
       "chap-nakai_book.md",
       "chap-okamoto.md",
       "chap-chibana.md",
       "chap-oyakatapj-agile.re",
-      "chap-shimazaki-scrum.md"
+      "chap-k-okajima1.md",
+      "chap-k-okajima2.md",
+      "chap-k-okajima3.md",
+      "chap-shimazaki-scrum.md",
+      "chap-g_yanagi.md",
+      "chap-bangucs.re",
+      "chap-arakawa-ke.md",
+      "chap-J.K0.md",
+      "chap-kitahara.md",
+      "chap-naru_kyo.md"
+
     ],
     "POSTDEF": [
       "contributors.re",
