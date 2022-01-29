@@ -49,7 +49,10 @@
       "chap-itojp.re",
       "chap-oyakata-elec.re",
       "chap-sakaman28.re",
-      "chap-omix222.re"
+      "chap-omix222.re",
+      "chap-oyakata-after.re",
+      "chap-k-okajima1.re"
+
     ],
     "POSTDEF": [
       "contributors.re",
