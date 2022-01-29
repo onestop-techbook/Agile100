@@ -123,7 +123,7 @@ Scrumを採用チームで実践したことで、私の中でScrumは「単な�
  1. 機能横断型
  2. 自己管理型
  3. 敏捷性を維持する必要がある
- 4. スプリント内で作業を完了できる(あとで数字つきに)
+ 4. スプリント内で作業を完了できる
 
 
 
@@ -148,7 +148,7 @@ Scrumを採用チームで実践したことで、私の中でScrumは「単な�
         \includegraphics[width=.75\linewidth]{images/chap-niwaya/niwaya.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        庭屋 一浩　@kazu_niwaya https://twitter.com/kazu\_niwaya\\
+        庭屋 一浩　@kazu\_niwaya https://twitter.com/kazu\_niwaya\\
         \end{minipage}
     \hspace{1ex}
 //}
