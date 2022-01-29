@@ -53,7 +53,13 @@
       "chap-oyakata-after.re",
       "chap-k-okajima1.re",
       "chap-k-okajima2.re",
-      "chap-k-okajima3.re"
+      "chap-k-okajima3.re",
+      "chap-otkshol.re",
+      "chap-watanabe.re",
+      "chap-ayanaru.re",
+      "chap-niwaya.re",
+      "chap-yasugahira.md",
+      "chap-nakai_book.md"
     ],
     "POSTDEF": [
       "contributors.re",
