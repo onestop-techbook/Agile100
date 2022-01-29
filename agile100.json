@@ -46,7 +46,9 @@
       "chap-fkino.re",
       "chap-sft2021.re",
       "chap-izumii19.re",
-      "chap-itojp.re"
+      "chap-itojp.re",
+      "chap-oyakata-elec.re",
+      "chap-sakaman28.re"
     ],
     "POSTDEF": [
       "contributors.re",
