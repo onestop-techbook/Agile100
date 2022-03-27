@@ -71,7 +71,8 @@
       "chap-kitahara.md",
       "chap-naru_kyo.md",
       "chap-dhmegane.re",
-      "chap-fukui.re"
+      "chap-fukui.re",
+      "chap-yumechi.re"
     ],
     "POSTDEF": [
       "contributors.re",
