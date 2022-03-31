@@ -153,7 +153,7 @@ KPTだと「やったこと」を思い出すステップが追加で必要に�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chap-imagire/imagure.jpg}
+        \includegraphics[width=.75\linewidth]{images/chap-imagire/imagire.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         今給黎 隆 @imagire https://twitter.com/imagire\\
