@@ -144,6 +144,10 @@ YWTのようなFunの要素もあり、成長できたことをシェアでき�
 　
 
 //embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/white.png}
+    \end{minipage}
     \begin{minipage}{.89\linewidth}
         yumechi https://twitter.com/\_\_yumechi\\
         \end{minipage}

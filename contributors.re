@@ -54,35 +54,6 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 
 　
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/chap-shimazaki/junsora.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        島崎純一 @junsora https://twitter.com/JuKoA453\\
-        https://note.com/blue\_sky\_js
-        \end{minipage}
-    \hspace{1ex}
-//}
-プロダクトマネージャ&スクラムマスター ◀︎ スクラムマスター ◀︎ DevOps 人を知り、チームでプロダクトを作る中、社内企画を通し、組織を作る人。
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/naru_kyo_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        naru\_kyo @naru\_kyo18 https://twitter.com/naru\_kyo18\\
-        https://note.com/naru\_kyo
-        \end{minipage}
-    \hspace{1ex}
-//}
-某企業でWeb系エンジニア／スクラムマスターをやってます。日々、アジャイル推進中。
-
-
-　
-
 
 == 表紙イラスト・デザイン　
 
