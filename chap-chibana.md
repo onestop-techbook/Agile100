@@ -1,4 +1,4 @@
-# Leap beyond! Every women leaders in agile~女性アジャイルコーチ１００人を創出するための場を作る~
+# Leap beyond! Every women leaders in agile　～女性アジャイルコーチ１００人を創出するための場を作る~
 
 <div class="flushright">知花@Women in Agile Japan（WiAJ）</div>
 

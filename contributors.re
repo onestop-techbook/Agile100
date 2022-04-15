@@ -54,24 +54,6 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 
 　
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/chap-shimazaki/junsora.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        島崎純一 @junsora https://twitter.com/JuKoA453\\
-        https://note.com/blue_sky_js
-        \end{minipage}
-    \hspace{1ex}
-//}
-プロダクトマネージャ&スクラムマスター ◀︎ スクラムマスター ◀︎ DevOps 人を知り、チームでプロダクトを作る中、社内企画を通し、組織を作る人。
-
-　
-
-
-　
-
 
 == 表紙イラスト・デザイン　
 
