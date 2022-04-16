@@ -79,7 +79,9 @@
       "chap-kitahara.md",
       "chap-miyahara.re",
       "chap-tsuku3dayo.md",
-      "chap-miyajima.re"
+      "chap-miyajima.re",
+      "chap-orinbou.re",
+      "chap-jk-event.md"
     ],
     "POSTDEF": [
       "contributors.re",
