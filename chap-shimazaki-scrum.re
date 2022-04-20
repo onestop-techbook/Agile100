@@ -1,7 +1,7 @@
 = スクラム導入の一例
 
 //flushright{
-しまざき@junsora
+島崎純一@junsora
 //}
 
 
