@@ -83,8 +83,10 @@
       "chap-tsuku3dayo.md",
       "chap-miyajima.re",
       "chap-orinbou.re",
-      "chap-mayunak.md",
-      "chap-jk-event.md"
+      "chap-mayunak.re",
+      "chap-jk-event.md",
+      "chap-oyakata-community.re",
+      "chap-iizuka.re"
     ],
     "POSTDEF": [
       "contributors.re",
