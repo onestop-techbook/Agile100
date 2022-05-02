@@ -1,7 +1,7 @@
 = 「自律型チームのつくり方　失敗から学んだ３つのポイント」
 
 //flushright{
-飯塚洋平@
+飯塚 洋平(@iiyohei)
 //}
 
 
@@ -116,3 +116,28 @@ zoomのブレイクアウトルームを使用して2人部屋を3つ作り、15
 
 8ヶ月で終わったのは、松尾さんが2回目の産休育休に入るのがタイミングがポイントとなりました。リーダーがチームを手放す最高のシナリオになったと思っています。
 復帰後には、2人の母でも楽しくチーム運営できる姿を色んなところで見せてほしいと思ってます。
+
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/iizuka.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        飯塚洋平 @iiyohei https://twitter.com/iiyohei\\
+        https://www.rossoacademy.jp/\\
+        https://note.com/rossoacademy
+        \end{minipage}
+    \hspace{1ex}
+//}
+--
+
+認定スクラムマスター（CSM）/PMP/kintone認定アプリデザインスペシャリスト
+
+SIerにてPMとして多くのプロジェクトを経験後、イノベーション部署の立上げに携わる。
+社内調整の後、副業社員1号となり、スタートアップ、大学非常勤講師などに従事中
+
+
+
