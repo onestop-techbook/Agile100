@@ -51,7 +51,7 @@
 
 技術同人誌には、商業出版(書店に並んでいる本)や、ブログや勉強会にはない魅力がたくさんあります。本を書いた著者に会いに行くことも簡単です。技書博@<fn>{gishohaku}や技術書典@<fn>{techbookfest}といったイベントで、著者に会うこともできます。
 
-//footnote[gishohaku][技書博：技術書同人誌博覧会　@<href>{https://gishohaku.dev/, https://gishohaku.dev/} 次回は2022年2月26日、都立産業貿易センター台東館にて第6回技書博が開催されます。本書が発行される日です。]
+//footnote[gishohaku][技書博：技術書同人誌博覧会　@<href>{https://gishohaku.dev/, https://gishohaku.dev/}]
 
 //footnote[techbookfest][技術書典: @<href>{https://techbookfest.org/, https://techbookfest.org/}]
 
