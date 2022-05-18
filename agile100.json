@@ -94,7 +94,8 @@
       "chap-kitahara.md",
       "chap-miyahara.re",
       "chap-jk-event.md",
-      "chap-nozomi_ito.md"
+      "chap-nozomi_ito.md",
+      "chap-amixedcolor"
     ],
     "POSTDEF": [
       "contributors.re",
