@@ -36,37 +36,6 @@
 
 == 執筆者
 
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        KANE @higuyume https://twitter.com/higuyume\\
-        サークル名： growthfaction
-        \end{minipage}
-    \hspace{1ex}
-//}
-人の力で世界を便利にする企業で働いているWebディレクター
-Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/chap-shimazaki/junsora.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        しまざき @junsora https://twitter.com/JuKoA453\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-プロダクトマネージャ&スクラムマスター ◀︎ スクラムマスター ◀︎ DevOps 人を知り、チームでプロダクトを作る中、社内企画を通し、組織を作る人。
-
-　
 
 
 　
