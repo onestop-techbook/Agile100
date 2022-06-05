@@ -68,9 +68,11 @@ E2Eテストについては、自社サービスであるMagicPodでMagicPod自�
 
 ####　自己紹介
 
-画像URL
+https://avatars.githubusercontent.com/u/4276719?v=4
 
-お名前、TwitterID、会社名(任意)
-URL
+伊藤望、@ito_nozomi、株式会社MagicPod
+https://twitter.com/ito_nozomi
 
-ひとこと。
+日本でもアジャイルの会社が増える->アジャイルにしないと競争相手に勝てなくなる->どの会社もなし崩し的にアジャイルになる
+という風にどんどんなっていけばいいなと思います。
+
