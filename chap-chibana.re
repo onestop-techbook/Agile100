@@ -1,4 +1,4 @@
-= Leap beyond! Every women leaders in agile　～女性アジャイルリーダー１００人が活躍できる場を作る～
+= Leap beyond! For Women Leaders in Agile　～女性アジャイルリーダー１００人が活躍できる場を作る～
 
 //flushright{
 知花@Women in Agile Japan（WiAJ）
@@ -177,8 +177,13 @@ https://www.facebook.com/groups/2735244386776303
     \hspace{1ex}
 //}
 
-アジャイルコーチとして、デジタルをベースとした事業変革や自律的な組織・リーダーシップ変革支援をしています。@<fn>{slalom}スクラムマスターを始めてからもう少しで10年。”育児と仕事をあきらめない”をモットーにNPO/Women in Agileの立ち上げにも奔走。
-
+アジャイルコーチとして、デジタルをベースとした事業変革や自律的な組織・リーダーシップ変革支援をしています。スクラムマスターを始めてからもう少しで10年。”育児と仕事をあきらめない”をモットーに認定団体/Women in Agileの立ち上げにも奔走。
+//noindent
 Scrum Alliance/CSP-SM, CTI/Certified Professional Co-Active Coach
 
-//footnote[slalom][Slalom(スラロム) 　シアトルに本社を置く戦略、テクノロジー、ビジネス・トランスフォーメーションにフォーカスしたグローバル・コンサルティング・ファームです。20年に渡り、AWS,Microsoft,Google,Adobe,Salesforce,Snowflake,tableauなど400以上の世界トップレベルのテクノロジープロバイダーと幅広くパートナーシップを組みビジネス企画からプロダクト開発支援、組織・人材育成まで総合的なデジタル変革サービスを提供しています。Fortune誌の「働きがいのある会社ベスト100」に6年連続で選出されており「働きがいのある会社」として評価されています。https://www.slalom.com/ja/ https://note.com/slalom/]
+　
+
+//noindent
+@<b>{会社紹介Slalom（スラロム、本社：米国シアトル）}
+//noindent
+デジタルやクラウド、データ、AIといった最新のテクノロジーに強みを持つコンサルティングファーム。20 年に渡り、 AWS, Microsoft, Google, Salesforce, Tableauなどをはじめ400社を超えるテクノロジープロバイダーとパートナーを組みながらデジタル変革サービスを提供している。Fortune 誌の「働きがいのある会社ベスト 100」に 6 年連続で選出されている。https://www.slalom.com/ja/ https://note.com/slalom/

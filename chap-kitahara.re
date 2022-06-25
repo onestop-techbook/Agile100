@@ -245,4 +245,18 @@ PO「。。。」
 
 スクラムが上手く機能していないと感じた時に、何か良いプラクティスが無いか探し回ったり、アジャイルコーチや実践者に相談してみたり、色々と動き回ってみるのも良いですが、そんな時こそ一度基本に立ち返ってスクラムガイドに忠実であるか見直してみると、答えが見つかるかも知れません。
 
+　
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/chap-jk/icon_jk.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        kitahara https://twitter.com/kitahara\\
+        Agile Tech EXPO Organizar / Agile Japan実行委員
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+hogehoge

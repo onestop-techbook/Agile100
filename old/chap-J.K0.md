@@ -120,16 +120,5 @@ GreenがGreenのままでいた瞬間を迎えたその興奮は本当に忘れ�
 
 ## まとめ
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/chap-jk/icon_jk.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        J.K @projecr_J_K https://twitter.com/project_J_K\\
-        Agile Tech EXPO Organizar / Agile Japan実行委員
-        \end{minipage}
-    \hspace{1ex}
-//}
 
 アジャイルで日本から世界を楽しく！アジャイルコーチや組織開発に従事。カンファレンス運営などを通じ、Agileが楽しく広まることを夢見て日々活動中。
