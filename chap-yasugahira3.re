@@ -1,7 +1,7 @@
 = XP会読会の紹介
 
 //flushright{
-やすがひら@sonomirai
+安ヶ平 雄太（yasugahira0810）
 //}
 
 == はじめに
@@ -74,10 +74,10 @@ XP会読会は運営メンバと参加者の垣根があまりない読書会で
         \includegraphics[width=.75\linewidth]{images/chap-yasugahira/yasugahira.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        安ケ平雄太（やすがひらゆうた） @yasugahira0810\\
-        https://twitter.com/yasugahira0810\\
+        安ヶ平 雄太（yasugahira0810）\\
+        https://linktr.ee/yasugahira0810\\
         \end{minipage}
     \hspace{1ex}
 //}
 
-千葉から都内に通っているスクラムマスターです。自慢できるチームを築きたいです。
+千葉から都内に通っているスクラムマスターです。「発信は人の為ならず」

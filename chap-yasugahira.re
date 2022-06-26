@@ -1,7 +1,7 @@
 = スキルマップを使ってチームのアジリティを高めよう！
 
 //flushright{
-やすがひら@sonomirai
+安ヶ平 雄太（yasugahira0810）
 //}
 
 == はじめに
@@ -115,10 +115,10 @@ POがDEVに市場の状況や新機能の価値を説明しても、DEVが「言
         \includegraphics[width=.75\linewidth]{images/chap-yasugahira/yasugahira.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        安ケ平雄太（やすがひらゆうた） @yasugahira0810\\
-        https://twitter.com/yasugahira0810\\
+        安ヶ平 雄太（yasugahira0810）\\
+        https://linktr.ee/yasugahira0810\\
         \end{minipage}
     \hspace{1ex}
 //}
 
-千葉から都内に通っているスクラムマスターです。自慢できるチームを築きたいです。
+千葉から都内に通っているスクラムマスターです。「一緒にキュンキュンしよっ♪」
