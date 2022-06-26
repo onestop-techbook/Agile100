@@ -142,7 +142,7 @@ SETメンバーがスクラムに入り、実際にプロジェクトを実行�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chap-fkino/fkino.jpg}
+        \includegraphics[width=.75\linewidth]{images/chap-itojp/facebook.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         伊藤 潤平 @jp\_110 https://twitter.com/jp\_110\\
