@@ -156,5 +156,3 @@ Agile Japan北陸サテライト実行委員
 S15 Silvia Autech Versionに乗ってました。
 北陸、金沢でアジャイルを盛り上げたいです。
 
-![MySilvia_400x400](https://user-images.githubusercontent.com/3986374/175833424-bcbec043-71e7-4e8b-b7f9-f3d01350931e.jpg)
-
