@@ -6,20 +6,14 @@
   "toc": true,
   "rights": "(C) 2022　親方Project",
   "colophon": true,
-  "history": [
-    [
-      "2022-02-26 初版"
-    ]
-  ],
+  "history": [["2022-02-26 初版"]],
   "pbl": "親方Project",
   "edt": "親方Project　@oyakata2438",
   "date": "2022-02-26",
   "secnolevel": 3,
   "titlepage": true,
   "review_version": 3.0,
-  "texstyle": [
-    "reviewmacro"
-  ],
+  "texstyle": ["reviewmacro"],
   "texdocumentclass": [
     "review-jsbook",
     "media=ebook,paper=b5,serial_pagination=true,hiddenfolio=nikko-pc,openany,fontsize=10pt,baselineskip=15.4pt,line_length=44zw,number_of_lines=40,head_space=18mm,headsep=3mm,headheight=5mm,footskip=10mm"
@@ -28,13 +22,9 @@
     "url": "https://github.com/TechBooster/ReVIEW-Template/archive/2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa.zip",
     "dir": "ReVIEW-Template-2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa/articles/sty/"
   },
-  "templates": [
-    "images"
-  ],
+  "templates": ["images"],
   "catalog": {
-    "PREDEF": [
-      "preface.re"
-    ],
+    "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-oyakata.re",
       "chap-ditflame.re",
@@ -101,11 +91,9 @@
       "chap-nozomi_ito.re",
       "chap-amixedcolor.md",
       "chap-ayanaru-agile.re",
-      "chap-oyakata-ukeoi.re"
+      "chap-oyakata-ukeoi.re",
+      "chap-chinmo.re"
     ],
-    "POSTDEF": [
-      "contributors.re",
-      "postscript.re"
-    ]
+    "POSTDEF": ["contributors.re", "postscript.re"]
   }
 }
