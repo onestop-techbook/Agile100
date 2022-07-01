@@ -92,7 +92,10 @@
       "chap-amixedcolor.md",
       "chap-ayanaru-agile.re",
       "chap-oyakata-ukeoi.re",
-      "chap-chinmo.re"
+      "chap-chinmo.re",
+      "chap-akim.re",
+      "chap-fukui2.re",
+      "chap-fukui3.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
