@@ -34,14 +34,7 @@
 //}
 ワンストップ本シリーズ企画・編集（一部執筆）してます。コミケと技術書典に出没。ついに技術書同人誌博覧会（技書博）のコアスタッフとして運営側に参加。技術書イベントが増えて嬉しいけれど、イベント多すぎて外出チケットと徳が不足気味。徳を貯めるべく、家事をこなしつつ、ラボに遊びに行ったり、飲み会や懇親会で著者を新規開拓したり。著者募集はいつでもやってますので、ぜひご参加ください。
 
-== 執筆者
-
-
-
-　
-
-
-== 表紙イラスト・デザイン　
+== 表紙キャラ（あじゃてくん）
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -54,7 +47,24 @@
         \end{minipage}
     \hspace{1ex}
 //}
+
 湊川あいです。
+
+== 表紙デザイン
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/white.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        AKI E-mail: quian.design@gmail.com\\
+        会社名: Quian（キアン）グラフィックデザイナー/ WEBデザイナー / アートディレクター
+        \end{minipage}
+    \hspace{1ex}
+//}
+ひとことー
+
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 

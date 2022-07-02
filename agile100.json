@@ -27,7 +27,7 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-oyakata.re",
-      "chap-ditflame.re",
+     "chap-ditflame.re",
       "chap-ditflame2.re",
       "chap-nakai.re",
       "chap-oyakata-outline.md",
@@ -95,7 +95,9 @@
       "chap-chinmo.re",
       "chap-akim.re",
       "chap-fukui2.re",
-      "chap-fukui3.re"
+      "chap-fukui3.re",
+      "chap-gaoryu.re",
+      "chap-roteskleid.re" 
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
