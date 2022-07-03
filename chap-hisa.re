@@ -1,7 +1,7 @@
 = 「責任」という単語について考えてみる
 
 //flushright{
-Hisa @
+Hisa @Ryuku_Hisa
 //}
 
 
@@ -23,9 +23,9 @@ Hisa @
 
 みなさんは「責任」という単語を聞いたとき、どんなことを連想しますか？あなたの考える「責任」の定義について、1〜3のどれにあてはまるか考えてみてください：
 
- * とある企業の社長は、その企業が開発したシステムの問題により多大な迷惑をかけたとし、責任をもって辞職した
- * 社員Aは納期に間に合わせるため、責任を持って残業し業務を終わらせた
- * 社員Bは昨日発生したシステム障害について、責任を持って発生原因の分析と今後の対応方針を考案・公表した
+ 1. とある企業の社長は、その企業が開発したシステムの問題により多大な迷惑をかけたとし、責任をもって辞職した
+ 2. 社員Aは納期に間に合わせるため、責任を持って残業し業務を終わらせた
+ 3. 社員Bは昨日発生したシステム障害について、責任を持って発生原因の分析と今後の対応方針を考案・公表した
 
 
 
@@ -151,12 +151,14 @@ Hisa @
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/white.png}
+        \includegraphics[width=.75\linewidth]{images/Hisa.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        Hisa @　\\
+        Hisa @Ryuku\_Hisa https://twitter.com/Ryuku\_Hisa\\
         \end{minipage}
     \hspace{1ex}
 //}
 
-ひとことー
+北海道のとある大学で大学院生しながら，東京のとある会社でリモート勤務しています．勤務先では組織開発職につき，コミュニティにてアジャイル開発に関する活動に参加．大学ではネットワークセキュリティの分野を研究．
+国際チューター認証資格である ITTPC (International Tutor Training Program Certification) Level 1 を保有．
+スノボとドライブとバスケが好きです．
