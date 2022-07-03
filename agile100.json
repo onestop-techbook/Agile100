@@ -99,7 +99,9 @@
       "chap-gaoryu.re",
       "chap-roteskleid.re",
       "chap-hisa.re",
-      "chap-98lerr.re" 
+      "chap-98lerr.re",
+      "chap-sasa.re",
+      "chap-katsuya.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
