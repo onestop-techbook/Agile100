@@ -106,3 +106,18 @@ XPには価値・原則・プラクティスという橋のメタファで表現
 深く理解するのは1人でやることは非常に難しいのでメンバー全員でやりましょう。
 メンバー全員でやるのもしんどいですが、しんどさ以上のものがあると思います。
 チームが自分たちを深く理解し、自分たちらしい、いきいきしたチームで楽しく仕事をしちゃいましょう！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/sasakendayo.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ささ @sasakendayo https://twitter.com/sasakendayo\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+何かひとこと
