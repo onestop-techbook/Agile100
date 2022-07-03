@@ -98,10 +98,12 @@
       "chap-fukui3.re",
       "chap-gaoryu.re",
       "chap-roteskleid.re",
+      "chap-roteskleid_2.re",
       "chap-hisa.re",
       "chap-98lerr.re",
       "chap-sasa.re",
-      "chap-katsuya.re"
+      "chap-katsuya.re",
+      "chap-nemorine.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
