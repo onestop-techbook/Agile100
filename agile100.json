@@ -103,7 +103,9 @@
       "chap-98lerr.re",
       "chap-sasa.re",
       "chap-katsuya.re",
-      "chap-nemorine.re"
+      "chap-nemorine.re",
+      "chap-itp.re",
+      "chap-amixedcolor.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
