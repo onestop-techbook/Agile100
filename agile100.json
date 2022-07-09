@@ -26,7 +26,7 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-      "chap-oyakata.re",
+     "chap-oyakata.re",
       "chap-ditflame.re",
       "chap-ditflame2.re",
       "chap-nakai.re",
@@ -89,7 +89,6 @@
       "chap-miyahara.re",
       "chap-jk-event.re",
       "chap-nozomi_ito.re",
-      "chap-amixedcolor.md",
       "chap-ayanaru-agile.re",
       "chap-oyakata-ukeoi.re",
       "chap-chinmo.re",
@@ -106,7 +105,8 @@
       "chap-katsuya.re",
       "chap-nemorine.re",
       "chap-itp.re",
-      "chap-amixedcolor.md"
+      "chap-amixedcolor.md", 
+      "chap-gaoryu2.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
