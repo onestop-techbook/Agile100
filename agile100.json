@@ -107,7 +107,7 @@
       "chap-itp.re",
       "chap-amixedcolor.md", 
       "chap-gaoryu2.re",
-      "chap-shimazakifriends.re"
+      "chap-shimazaki-friends.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
