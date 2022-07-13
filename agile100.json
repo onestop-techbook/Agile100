@@ -27,7 +27,7 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
 
-      "chap-shimazaki-friends.re"
+      "chap-mayuborn-LT.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
