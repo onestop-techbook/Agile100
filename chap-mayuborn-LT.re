@@ -4,7 +4,7 @@
 まゆぼ～ん@mayuborn
 //}
 
-Agile Tech EXPO 2022 にて、アジャテクフレンズのライトニングトークを行いました。
+Agile Tech EXPO 2022 にて、あじゃてくフレンズのライトニングトークを行いました。
 
 https://youtu.be/_b7XJRQzzpg
 
