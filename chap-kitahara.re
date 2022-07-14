@@ -250,13 +250,13 @@ PO「。。。」
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chap-jk/iconjk.png}
+        \includegraphics[width=.75\linewidth]{images/chap-kiahara/kitahara.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        kitahara https://twitter.com/kitahara\\
+        kitahara https://twitter.com/kitaharat2\\
         Agile Tech EXPO Organizar / Agile Japan実行委員
         \end{minipage}
     \hspace{1ex}
 //}
 
-hogehoge
+雑誌編集者→n次受け開発ベンダー→情シス→SIer→コンサルタント／喜びと感動に満ちたチームの実現を目指してスクラムマスターやってます。
