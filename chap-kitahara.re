@@ -250,7 +250,7 @@ PO「。。。」
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chap-kiahara/kitahara.jpg}
+        \includegraphics[width=.75\linewidth]{images/chap-kitahara/kitahara.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         kitahara https://twitter.com/kitaharat2\\
