@@ -112,7 +112,8 @@
       "chap-mayuborn-LT.re",
       "chap-after.re",
       "chap-oyakata-cfp1.re",
-      "chap-oyakata-cfp2.re"
+      "chap-oyakata-cfp2.re",
+      "chap-matsunaga-3.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
