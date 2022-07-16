@@ -120,3 +120,22 @@
   そして少し距離をとって違った角度からアジャイルを眺めると、もしかしたら今までとは違った景色が見えるかもしれませんよ。
 
 以上です。
+
+---
+
+以下、md 形式で署名部分の書き方が分からなかったので、他の人を参考にしてみました。
+
+```
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images\chap-okamoto\okamoto.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        岡本卓也 @haraguro3 https://twitter.com/haraguro3\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+現場のエンジニアとマネジメントの両方が幸せになれるような、そんな開発の仕事が実現したくて、日々悩みながら＆楽しみながら働いています。
+```
