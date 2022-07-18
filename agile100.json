@@ -116,7 +116,8 @@
       "chap-matsunaga-3.re",
       "chap-okamoto2.re",
       "chap-k-okajimaWF.re",
-      "chap-k-okajimaWF2.re"
+      "chap-k-okajimaWF2.re",
+      "chap-kakeda_nvc.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
