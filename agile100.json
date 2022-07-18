@@ -114,7 +114,9 @@
       "chap-oyakata-cfp1.re",
       "chap-oyakata-cfp2.re",
       "chap-matsunaga-3.re",
-      "chap-okamoto2.re"
+      "chap-okamoto2.re",
+      "chap-k-okajimaWF.re",
+      "chap-k-okajimaWF2.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
