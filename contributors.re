@@ -48,22 +48,23 @@
     \hspace{1ex}
 //}
 
-湊川あいです。
+イラストスポンサーという試みは初めてでしたが、あじゃてくんというかわいいキャラクターができて私も嬉しいです！
 
 == 表紙デザイン
 
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/white.png}
+        \includegraphics[width=.75\linewidth]{images/aki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         AKI E-mail: quian.design@gmail.com\\
-        会社名: Quian（キアン）グラフィックデザイナー/ WEBデザイナー / アートディレクター
+        Quian（キアンデザイン）\\
+        グラフィックデザイナー/ WEBデザイナー / アートディレクター
         \end{minipage}
     \hspace{1ex}
 //}
-ひとことー
+デザインを考えたり、絵を描いたりしています。旅と花が好き。
 
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
