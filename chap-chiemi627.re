@@ -83,7 +83,7 @@ enPiT筑波大のプロジェクトのテーマは常に「自分の身近な問
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/chiemi627/chiemi2021.png}
+        \includegraphics[width=.75\linewidth]{images/chap-chiemi627/chiemi2021.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ちえみ @chiemi\_wtnb https://twitter.com/chiemi\_wtnb\\
