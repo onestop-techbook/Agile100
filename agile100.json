@@ -6,10 +6,10 @@
   "toc": true,
   "rights": "(C) 2022　親方Project",
   "colophon": true,
-  "history": [["2022-02-26 初版"]],
+  "history": [["2022-08-13 初版"]],
   "pbl": "親方Project",
   "edt": "親方Project　@oyakata2438",
-  "date": "2022-02-26",
+  "date": "2022-08-13",
   "secnolevel": 3,
   "titlepage": true,
   "review_version": 3.0,
@@ -120,7 +120,8 @@
       "chap-kakeda_nvc.re",
       "chap-kaorun55.re",
       "chap-komasssssy.re",
-      "chap-mzryuka.re"
+      "chap-mzryuka.re",
+      "chap-ditflame3.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
