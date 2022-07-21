@@ -10,24 +10,27 @@ CHAPS:
 
   # コミュニティに関する話
   - 00-chap-title-community.re:
-      - chap-oyakata-community.re
-      - chap-akim.re
       - chap-ayanaru.re
-      - chap-chibana.re
-      - chap-gaoryu2.re
-      - chap-hisa1.re
-      - chap-jk-event.re
       - chap-kane.re
       - chap-llminatoll.re
+      - chap-shimazaki-friends.re
+      - chap-gaoryu2.re
+      - chap-hisa1.re
       - chap-mayuborn-LT.re
+      - chap-jk-event.re
+      - chap-akim.re
+      - chap-oyakata-community.re
       - chap-okamoto2.re
+      - chap-uheno.re
+      - chap-chibana.re
+      - chap-yasugahira3.re
       - chap-otajisan.re
-      - chap-oyakata-cfp1.re
-      - chap-oyakata-cfp2.re
       - chap-poohsunny.re
       - chap-roteskleid_2.re
-      - chap-shimazaki-friends.re
-      - chap-yasugahira3.re
+      - chap-oyakata-cfp1.re
+      - chap-oyakata-cfp2.re
+      - chap-ditflame3.re
+
 
 
 
@@ -86,6 +89,7 @@ CHAPS:
       - chap-roteskleid.re
       - chap-sakaman28.re
       - chap-yasugahira2.re
+      - chap-samuraired.re
 
 
   # チャレンジ
@@ -115,18 +119,22 @@ CHAPS:
       - chap-tsuku3dayo.re
       - chap-kaorun55.re
       - chap-mzryuka.re
+      - chap-kogebayashi.re
+      - chap-chiemi627.re
+      - chap-hh.re
+      - chap-sfujii.re
 
 
-
+  
   # 
   # 最後にふりかえり
   - 00-chap-reset.re
 
-  - chap-after.re
 
 
 APPENDIX:
   # あれば
+  - chap-after.re
 
 POSTDEF:
   # あとがき

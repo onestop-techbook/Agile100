@@ -1,5 +1,9 @@
 = コミュニティ運営とアジャイルになりたい私
 
+//flushright{
+うへの@yeHoaqko
+//}
+
 こんにちは、うへのです。普段はQAをしながら、テストやアジャイル関連のコミュニティ活動をしています。
 
 今回は私が実行委員長を務めているJaSST Tokyoというカンファレンス運営について書いてみたいと思います。
@@ -51,14 +55,14 @@ JaSST’22 Tokyoは、私が実行委員長を初めて務めさせていただ�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/white.png}
+        \includegraphics[width=.75\linewidth]{images/uheno.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        うへの https://twitter.com/uheno\\
+        うへの@yeHoaqko https://twitter.com/yeHoaqko\\
         \end{minipage}
     \hspace{1ex}
 //}
 
 テストとアジャイルの狭間で生きている。
 
-JaSST Tokyo / Agile Japan
+JaSST Tokyo実行委員長、Agile Japan実行委員、Agile Japan EXPO理事

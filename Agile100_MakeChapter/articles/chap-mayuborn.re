@@ -1,4 +1,4 @@
-= Agile Tech Expoのdiscordと私
+= Agile Tech EXPOのdiscordと私
 
 //flushright{
 まゆぼ～ん@mayuborn
