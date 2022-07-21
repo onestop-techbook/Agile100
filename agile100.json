@@ -121,10 +121,12 @@
       "chap-kaorun55.re",
       "chap-komasssssy.re",
       "chap-mzryuka.re",
-      "chap-ditframe3.re",
+      "chap-ditflame3.re",
       "chap-chiemi627.re",
       "chap-samuraired.re",
-      "chap-uheno.re"
+      "chap-uheno.re",
+      "chap-hh.re",
+      "chap-sfujii.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
