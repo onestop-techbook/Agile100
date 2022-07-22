@@ -126,7 +126,8 @@
       "chap-samuraired.re",
       "chap-uheno.re",
       "chap-hh.re",
-      "chap-sfujii.re"
+      "chap-sfujii.re",
+      "chap-ditflame3.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
