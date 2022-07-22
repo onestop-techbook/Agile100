@@ -172,7 +172,7 @@ XPの学習をする中で、「ペアプロ」というプラクティスには
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         田地将也 @otajisan https://twitter.com/otajisan\\
-        サークル名：アジャイルひよこクラブ https://agile-hiyoko-club.connpass.com/
+        アジャイルひよこクラブ https://agile-hiyoko-club.connpass.com/
         \end{minipage}
     \hspace{1ex}
 //}
