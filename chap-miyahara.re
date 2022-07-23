@@ -62,13 +62,17 @@ Ops側の担当としても、なかなか開発仕様が定まらないため�
 
 開発が進むにつれて、本番リリース後に発見される不具合の頻度が上がってきている問題も感じられます。原因としてはレガシーなシステムが無秩序にデータベースを扱っていたため、誤ったデータが存在していることが不具合の主な原因です。しかし、リリース前に発見できなかったのか、と思われるものが多いため、開発段階、リリース前のテストを見直す必要がありそうです。現時点では明確にテストはこうあるべき、というものが無いため、品質保証の基準が曖昧です。開発者個々人の技術力や努力に頼らず、開発標準同様、テスト標準についても定める必要がありそうです。
 
-=== 自己紹介
+　
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/miyahara.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        宮原 徹 @tmiyahar https://twitter.com/tmiyahar
+        \end{minipage}
+    \hspace{1ex}
+//}
 
-みやはら　@hoge @<href>{https://twitter.com/hoge, https://twitter.com/hoge}
-
-
-アイコン
-
-
-自己紹介＆ひとこと
+日本仮想化技術株式会社 代表取り締まられ役社長兼CEO(Chief Enkai Officer)。元々が某外資系DB屋だったので、システム開発には保守的ですが、ここ5年ぐらいはDevOpsのOps寄りポジションで活動中。
