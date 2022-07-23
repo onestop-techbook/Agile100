@@ -98,7 +98,7 @@ Scrum Inc.認定スクラムマスター（LSM）, SAFe® 5 Program Consultant (
 家庭では3児の父としてにぎやかな日々を送っている。
 
 //footnote[d級コーチ][JFAのD級コーチについて @<href>{https://www.jfa.jp/coach/official/license.html#d_license, https://www.jfa.jp/coach/official/license.html#d_license}]
-
-//footnote[playersfirst][JFAのサイトに掲載されているPlayers Firstという冊子 @<href>{https://www.jfa.jp/youth_development/players_first/pdf/playersfirst.pdf, https://www.jfa.jp/youth_development/players_first/pdf/playersfirst.pdf}]
+ 
+//footnote[playersfirst][JFAのサイトに掲載されているPlayers Firstという冊子　　　 @<href>{https://www.jfa.jp/youth_development/players_first/pdf/playersfirst.pdf, https://www.jfa.jp/youth_development/players_first/pdf/playersfirst.pdf}]
 
 //footnote[7つの習慣][7つの習慣のサイト @<href>{https://www.franklincovey.co.jp/blog/archives/3766, https://www.franklincovey.co.jp/blog/archives/3766}]
