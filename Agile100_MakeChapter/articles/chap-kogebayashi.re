@@ -73,6 +73,19 @@ kogebayashi
 全てのアジャイル推進者の今後のますますのご活躍を願っております。
 続きはnoteで不定期でアップしていきますので、良かったらお越しください。
 
-=== 著者　Kogebayashi
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/kogebayashi.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Kogebayashi\\
+        note:https://note.com/kobaya\_mik
+        \end{minipage}
+    \hspace{1ex}
+//}
+
 元メガバンクのアジャイル推進責任者/元あじゃてくオーガナイザー／元アジャイルジャパン実行委員
-note:https://note.com/kobaya_mik
+
