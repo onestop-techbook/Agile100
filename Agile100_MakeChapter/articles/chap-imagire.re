@@ -16,7 +16,7 @@
 前期は書籍の輪講を行い、後期は論文を輪講しています。
 それ以外にもプログラミング力向上のために、AtCoder@<fn>{atcoder}の問題をモブプログラミングで解いたりしています（本番のコンテストは、もちろん個人戦です）。
 
-//footnote[atcoder][AtCorder @<href>{https://atcoder.jp/, https://atcoder.jp/}]
+//footnote[atcoder][AtCoder @<href>{https://atcoder.jp/, https://atcoder.jp/}]
 
 
 4年次は卒業研究もしくは卒業制作になります。芸術学部なので、研究でなくて作品制作でも大丈夫です。自分の研究室では、チーム制作での卒業制作でゲームを作ったりもします。チーム制作の場合はアジャイルの手法が素直に当てはめられるので、スクラムを普通に適用します。
