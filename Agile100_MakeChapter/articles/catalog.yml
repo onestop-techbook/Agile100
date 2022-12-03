@@ -1,0 +1,141 @@
+PREDEF:
+  # はじめに
+  - preface.re
+
+CHAPS:
+  # この本について
+  - 00-chap-title-about.re:
+      - chap-oyakata-outline.re
+      - chap-oyakata-after.re
+
+  # テクニック的な話
+  - 00-chap-title-technic.re:
+      - chap-otkshol.re
+      - chap-sft2021.re
+      - chap-hisa.re
+      - chap-viva.re
+      - chap-matsunaga-3.re
+      - chap-matsunaga.re
+      - chap-niwaya.re
+      - chap-nemorine.re
+      - chap-kakeda_nvc.re
+      - chap-matsunaga_recovery.re
+      - chap-yasugahira4.re
+      - chap-scrummasudar.re
+      - chap-ditflame2.re
+      - chap-ditflame.re
+      - chap-chinmo.re
+      - chap-fkino.re
+      - chap-ikiikiikuo-pychological-safety.re
+      - chap-katsuya.re
+      - chap-kitahara.re
+      - chap-koito.re
+      - chap-mayunak.re
+      - chap-miyajima.re
+      - chap-nakai_book.re
+      - chap-omix222.re
+      - chap-orinbou2.re
+      - chap-tark.re
+      - chap-watanabe.re
+      - chap-yumechi.re
+      - chap-yasugahira.re
+      - chap-arakawa-ke.re
+      - chap-atsushi-nagata.re
+      - chap-fukui3.re
+      - chap-k-okajimaWF.re
+      - chap-k-okajimaWF2.re
+      - chap-komasssssy.re
+
+
+  # 自分の体験・歴史・ふりかえり
+  - 00-chap-title-selfretrospective.re:
+      - chap-nakai.re
+      - chap-98lerr.re
+      - chap-amixedcolor.re
+      - chap-ayanaru-agile.re
+      - chap-bangucs.re
+      - chap-g_yanagi.re
+      - chap-izumii19.re
+      - chap-J.K0.re
+      - chap-mayuborn.re
+      - chap-naru_kyo.re
+      - chap-oyakata.re
+      - chap-roteskleid.re
+      - chap-sakaman28.re
+      - chap-yasugahira2.re
+      - chap-samuraired.re
+
+
+  # チャレンジ
+  - 00-chap-title-challange.re:
+      - chap-shimazaki-scrum.re
+      - chap-okamoto.re
+      - chap-ikiikiikuo.re
+      - chap-iizuka.re
+      - chap-imagire.re
+      - chap-shimazaki.re
+      - chap-k-okajima1.re
+      - chap-k-okajima2.re
+      - chap-k-okajima3.re
+      - chap-itojp.re
+      - chap-orinbou.re
+      - chap-gaoryu.re
+      - chap-dhmegane.re
+      - chap-nozomi_ito.re
+      - chap-fukui.re
+      - chap-tsuku3dayo.re
+      - chap-kaorun55.re
+      - chap-kogebayashi.re
+      - chap-sfujii.re
+      - chap-fukui2.re
+      - chap-itp.re
+      - chap-miyahara.re
+      - chap-oyakata-ukeoi.re
+      - chap-sasa.re
+      - chap-oyakata-elec.re
+      - chap-oyakatapj-agile.re
+      - chap-hh.re
+      - chap-chiemi627.re
+      - chap-mzryuka.re
+
+  # コミュニティに関する話
+  - 00-chap-title-community.re:
+      - chap-ayanaru.re
+      - chap-kane.re
+      - chap-llminatoll.re
+      - chap-shimazaki-friends.re
+      - chap-gaoryu2.re
+      - chap-hisa1.re
+      - chap-mayuborn-LT.re
+      - chap-oyakata-community.re
+      - chap-okamoto2.re
+      - chap-uheno.re
+      - chap-chibana.re
+      - chap-yasugahira3.re
+      - chap-otajisan.re
+      - chap-poohsunny.re
+      - chap-roteskleid_2.re
+      - chap-oyakata-cfp1.re
+      - chap-oyakata-cfp2.re
+      - chap-ditflame3.re
+      - chap-ditflame4.re
+      - chap-jk-event.re
+      - chap-akim.re
+
+  
+  # 
+  # 最後にふりかえり
+  - 00-chap-reset.re
+
+
+
+APPENDIX:
+  # あれば
+  - chap-after.re
+
+POSTDEF:
+  # あとがき
+  - postscript.re
+
+  # 執筆者一覧
+  - contributors.re
